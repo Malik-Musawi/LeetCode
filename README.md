@@ -39,10 +39,15 @@ Easy Problems (30/100)
 28. Single Number (C++) ☑
 29. Two Sum (C++) ☑
 30. Valid Parentheses (C++) ☑
+31. Buy Chocolate (C++) ☑
 ```
 Medium Problems (1/100)
 ```
 1. Good Day To rob a bank  ☑
+2. top K frequent elements  ☑
+3. widest vertical area between two points containing no points  ☑
+4. group anagrams  ☑
+5. Product of Array Except Self ☑
 ```
 Hard Problems (0/100)
 ```
